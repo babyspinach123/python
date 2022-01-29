@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=jFCNu1-Xdsw
+
+29/01/22 - 1.5 Hours
+https://www.youtube.com/watch?v=jFCNu1-Xdsw
+Videos 1 to 6
+Installed:
+python 3.10
+VS Code
+VS Code Python plug-in
+Developed:
+01_hello_world.py - print and input
+02_maths.py - debugging with print statements (divide by 0 error)
+
