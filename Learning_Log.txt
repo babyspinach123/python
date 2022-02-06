@@ -1,4 +1,8 @@
-https://www.youtube.com/watch?v=jFCNu1-Xdsw
+YouTube Course - Microsoft Developer | Programming with Python | Python for Beginners:
+https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+
+GitHub Repository with my code:
+https://github.com/babyspinach123/python
 
 29/01/22 - 1.5 Hours
 https://www.youtube.com/watch?v=jFCNu1-Xdsw
