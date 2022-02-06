@@ -10,4 +10,8 @@ VS Code Python plug-in
 Developed:
 01_hello_world.py - print and input
 02_maths.py - debugging with print statements (divide by 0 error)
-
+06/02/22 - 1 hour
+videos 7 to 12
+Developed:
+03_strings.py - concatenating strings and string variables
+04_name_entery.py - using string formatting
