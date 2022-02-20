@@ -26,3 +26,8 @@ Developed:
 05_numbers.py - converting number data types
 06_dates.py - using the datetime library functions
 
+Session 4
+20/02/22 - 1 hour
+videos 16 - 18 
+developed:
+07_error_handling.py - error handling
