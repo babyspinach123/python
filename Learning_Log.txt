@@ -31,3 +31,10 @@ Session 4
 videos 16 - 18 
 developed:
 07_error_handling.py - error handling
+
+Session 5
+20/02/22 - 1.25 hour
+videos 19 - 24 
+developed:
+08_conditional_logic.py - if statements
+09_complex_condition.py - and condition
