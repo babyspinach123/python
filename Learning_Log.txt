@@ -38,3 +38,10 @@ videos 19 - 24
 developed:
 08_conditional_logic.py - if statements
 09_complex_condition.py - and condition
+
+session 6
+06/03/22 - 1 hour
+videos 25 - 28
+developed:
+10_collections.py - lists and dictionarys
+11_loops.py - for and while loops 
