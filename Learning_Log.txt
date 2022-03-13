@@ -45,3 +45,9 @@ videos 25 - 28
 developed:
 10_collections.py - lists and dictionarys
 11_loops.py - for and while loops 
+
+session 7
+13/3/22 - 1 Hour
+videos 29 - 32
+developed:
+12_functions.py - functions and parameters 
