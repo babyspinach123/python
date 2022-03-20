@@ -51,3 +51,11 @@ session 7
 videos 29 - 32
 developed:
 12_functions.py - functions and parameters 
+
+session 8
+20/3/22 - 1 hour
+videos 33-34
+developed:
+module.py
+14_use_my_module.py
+requirements.txt
