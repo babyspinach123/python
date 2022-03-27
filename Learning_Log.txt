@@ -59,3 +59,12 @@ developed:
 module.py
 14_use_my_module.py
 requirements.txt
+
+session 9
+27/3/22 - 1 hour
+videos 34-36
+developed:
+Created virtual environment venv, istalled packages with requirements.txt  and used it to run 14_use_my_module
+Changed default VS Code terminal to CMD as powershell would not run venv activate script.
+Watched introduction videos to APIs
+Created .gitignore so venv files (>1000) are not stored in git repository
