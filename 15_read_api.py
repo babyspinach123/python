@@ -22,3 +22,4 @@ for parameter in params:
 print("\n-------- Data Date -------\n")
 data_date = results['SiteRep']['DV']['dataDate']
 print (data_date)
+print(data_date.split('T')[0]+'Z')
