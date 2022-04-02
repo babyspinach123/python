@@ -68,3 +68,9 @@ Created virtual environment venv, istalled packages with requirements.txt  and u
 Changed default VS Code terminal to CMD as powershell would not run venv activate script.
 Watched introduction videos to APIs
 Created .gitignore so venv files (>1000) are not stored in git repository
+
+session 10
+02/4/22 - 1 hour
+videos 37-start of 39
+developed:
+15_read_api.py
