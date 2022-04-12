@@ -1,9 +1,14 @@
+from dotenv import load_dotenv
+import os
 from unittest import result
 from urllib import response
 import requests 
 import json
 
-weather_obs_api = 'http://datapoint.metoffice.gov.uk/public/data/val/wxobs/all/json/3354?res=hourly&key=d19a5ca3-4a4f-488e-899d-57d481f461c0'
+load_dotenv()
+key = os.getenv('METOFFICE_KEY')
+
+weather_obs_api = 'http://datapoint.metoffice.gov.uk/public/data/val/wxobs/all/json/3354?res=hourly&key='+key
 
 response = requests.get(weather_obs_api)
 results = response.json()

@@ -74,3 +74,11 @@ session 10
 videos 37-start of 39
 developed:
 15_read_api.py
+
+session 11 
+12/4/22 - 1 hour
+videos 39- start of41
+developed:
+16_json.py - making a json
+17_dotenv.py - using .env file for paswords
+.env
