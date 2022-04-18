@@ -82,3 +82,9 @@ developed:
 16_json.py - making a json
 17_dotenv.py - using .env file for paswords
 .env
+
+session 12
+18/4/22 - 1 hour
+videos 41-44
+developed:
+18_decorators.py - creating a 18_decorators
