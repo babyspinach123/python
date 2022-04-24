@@ -88,3 +88,7 @@ session 12
 videos 41-44
 developed:
 18_decorators.py - creating a 18_decorators
+
+session 13
+24/4/22 - 1 hour 
+developed weather.py 
