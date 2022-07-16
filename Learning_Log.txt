@@ -92,3 +92,7 @@ developed:
 session 13
 24/4/22 - 1 hour 
 developed weather.py 
+
+session 14
+30/4/22 - 1 hour
+updated weather.py - prints weather in human readable format and adds dictionary to decode weather type
